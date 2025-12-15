@@ -60,7 +60,7 @@ python eval/eval.py
 ### [Point Cloud Completion on ShapeNet-ViPC](https://paperswithcode.com/sota/point-cloud-completion-on-shapenet-vipc)
 
 
-<img src="figs/Visualization.jpg">
+<img src="figs/Visualization.png">
 
 ## Acknowledgements
 Some of the code is borrowed from [AXform](https://github.com/kaiyizhang/AXform) and [XMFnet](https://github.com/diegovalsesia/XMFnet). 
