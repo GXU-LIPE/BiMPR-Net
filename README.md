@@ -3,7 +3,7 @@
 [](figs/overall.png)
 
 
-<img src="figs/overall.png">
+<img src="figs/overall.jpg">
 
 ## Introduction
 With the continuous advancement of 3D visual technology, image-guided point cloud completion, as an emerging field within point cloud completion, has increasingly drawn the attention of researchers. Despite the substantial improvements in point cloud completion achieved by existing methods, challenges persist, including sensitivity to image viewpoints, difficulty in effectively handling cross-modal data, and the lack of finegrained semantic structure in the generated object point clouds. In this work, we introduce a novel cross-modal image-guided point cloud completion network named BiMPR-Net. Different from previous approaches to cross-modal data processing, BiMPR-Net employs a proposed bidirectional interactive compensation module. This module leverages multimodal information to bridge the information gap between point clouds and image modalities. By utilizing visual information from view images and geometric cues from the projected depth map, BiMPR-Net accurately predicts enhanced semantic and geometric feature representations of incomplete point clouds. We design a novel multi-scale progressive refinement module for refining point clouds, facilitating the effective fusion of global shapes and local details through dual-stream features. Ultimately, this approach achieves high-quality point cloud generation. Extensive quantitative and qualitative experiments conducted on the ShapeNet-ViPC benchmark dataset demonstrate that our image-guided point cloud completion method BiMPR-Net achieves state-of-the-art performance.
