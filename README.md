@@ -1,7 +1,6 @@
 # BiMPR-Net : Bidirectional Cross-Modal Image-Guided Point Cloud Completion with Multi-Scale Progressive Refinement
 
-
-![](figs/mmpc_arch.png)
+[](figs/overall.png)
 
 
 <img src="figs/overall.png">
